@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>Chat</name>
+=======
+	<name>BkRegister</name>
+>>>>>>> 76b6226fd7aa0ddd6b383ecc0fea23ec5a45a719
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+<<<<<<< HEAD
+	</natures>
+=======
+	</natures> 
+>>>>>>> 76b6226fd7aa0ddd6b383ecc0fea23ec5a45a719
+</projectDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+<<<<<<< HEAD
+	<classpathentry kind="lib" path="C:/Сервер 1.2.4/server 1.3.1-R2++/plugins/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="C:/Сервер 1.2.4/server 1.3.1-R2++/CraftBukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1/Desktop/Russian/bukkit-1.3.1-R2.0.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Сервер 1.2.4/Servev 1.4.2/mcpc.jar"/>
+>>>>>>> 76b6226fd7aa0ddd6b383ecc0fea23ec5a45a719
+	<classpathentry kind="output" path="bin"/>
+</classpath>
