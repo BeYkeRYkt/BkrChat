@@ -1,0 +1,19 @@
+name: BkrChat
+main: ru.BeYkeR_33.bkrchat.main
+description: Плагин для чата
+author: BeYkeR_33
+version: 3.0
+website: https://github.com/BeYkeRYkt/BkrChat
+commands:
+  chatversion:
+    description: Версия и авторы.
+    usage: /<command>
+  mems:
+    description: Список мемов.
+    useage: /<command>
+  github:
+    description: Исходники на GitHub.
+    useage: /<command> update
+permissions:
+  bkrchat.*:
+    default: op
