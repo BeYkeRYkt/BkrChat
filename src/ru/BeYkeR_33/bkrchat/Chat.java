@@ -11,7 +11,7 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.event.entity.PlayerDeathEvent;
-import org.bukkit.event.player.PlayerChatEvent;
+import org.bukkit.event.player.AsyncPlayerChatEvent;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.configuration.file.FileConfiguration;
 
@@ -48,7 +48,7 @@ public class Chat implements Listener {
 		}
 	}
 	@EventHandler
-	public void onPlayerChat(PlayerChatEvent event) {
+	public void onPlayerChat(AsyncPlayerChatEvent event) {
 	  	Player player = event.getPlayer();
 		String message = "§4[BkrChat] - %1$s: %2$s";		
 		String chatMessage = event.getMessage();	
