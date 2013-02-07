@@ -2,7 +2,7 @@ name: BkrChat
 main: ru.BeYkeR_33.bkrchat.main
 description: Плагин для чата
 author: BeYkeR_33
-version: 3.0
+version: 3.2_0.2
 website: https://github.com/BeYkeRYkt/BkrChat
 commands:
   chatversion:
